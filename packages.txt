@@ -1,0 +1,10 @@
+libfreetype6
+libpng-dev
+libx11-6
+libxext6
+libxrender1
+libxcb1
+libxcb-shm0
+libxcb-shape0
+libxcb-xfixes0
+libfontconfig1
